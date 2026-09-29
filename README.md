@@ -8,9 +8,9 @@
   • Dashboard Building & Business Reporting
 
 ## Dataset used file
-- <a href="https://github.com/dhruv-kad1a/BlinkIT-Dashboard-Grocery-Sales-Analytics-Project/tree/main/Dataset%20and%20Dashboard"> Blinkit dataset file </a>
+- <a href="https://github.com/Jimeetp/BlinkIT-Dashboard-Grocery-Sales-Analytics-Project/tree/main/Dataset%20and%20Dashboard"> Blinkit dataset file </a>
 
-# Dashboard Interaction <a href="https://github.com/dhruv-kad1a/BlinkIT-Dashboard-Grocery-Sales-Analytics-Project/blob/main/Dashboard.PNG"> View Dashboard </a>
+# Dashboard Interaction <a href="https://github.com/Jimeetp/BlinkIT-Dashboard-Grocery-Sales-Analytics-Project/blob/main/Dashboard.PNG"> View Dashboard </a>
 
   
 ## 1. 💡 Business Objectives
